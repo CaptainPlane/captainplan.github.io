@@ -1,15 +1,15 @@
 baseURL = "https://captainplan.github.io"
 languageCode = "en-us"
-title = "zvlex blog"
+title = "captain blog"
 theme = "mainroad"
 
 [Author] # Used in authorbox
-  name = "Alexander Zutikov"
+  name = "CaptainPlan"
   bio = "Software developer mostly on Ruby/Rails"
 
 [Params]
-  description = "zvlex blog" # Site description. Used in meta description
-  copyright = "zvlex" # Footer copyright holder, otherwise will use site title
+  description = "captain blog" # Site description. Used in meta description
+  copyright = "captain" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
